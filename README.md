@@ -1,10 +1,10 @@
 # Desafio de Código:
 
-Você foi contratado para integrar um time de desenvolvimento para atuar em um projeto de uma universidade. A Squad na qual você vai trabalhar atuará no módulo de Matrículas.
-O módulo de Matrículas da Universidade deve atender às seguintes regras de negócio:
-**1-**	As pessoas interessadas em ingressar na faculdade devem fazer um Exame Vestibular e para serem aceitas, devem atingir no mínimo 60 pontos na avaliação.
-Para a inscrição no exame vestibular, a pessoa interessada deve ter 18 anos ou mais, não atendendo à idade mínima, deve-se exigir nome do pai, mãe ou responsável legal.
-Não há taxa para realização do exame
+Você foi contratado para integrar um time de desenvolvimento para atuar em um projeto de uma universidade. A Squad na qual você vai trabalhar atuará no módulo de Matrículas.  
+O módulo de Matrículas da Universidade deve atender às seguintes regras de negócio:  
+**1-**	As pessoas interessadas em ingressar na faculdade devem fazer um Exame Vestibular e para serem aceitas, devem atingir no mínimo 60 pontos na avaliação.  
+Para a inscrição no exame vestibular, a pessoa interessada deve ter 18 anos ou mais, não atendendo à idade mínima, deve-se exigir nome do pai, mãe ou responsável legal.  
+Não há taxa para realização do exame  
 **2-**	Uma vez aprovado no vestibular, a pessoa interessada em ingressar na faculdade está apta a se tornar um aluno realizando sua matrícula.
  A realização da matrícula segue as seguintes orientações:
 Alunos aprovados com nota entre 60 e 79 pontos têm bolsa 30%
